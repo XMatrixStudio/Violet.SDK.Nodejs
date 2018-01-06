@@ -1,0 +1,22 @@
+{
+  "name": "violet-sdk",
+  "version": "1.0.0",
+  "description": "A SDK for Violet User System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XMatrixStudio/Violet.SDK.Nodejs.git"
+  },
+  "keywords": [
+    "violet"
+  ],
+  "author": "a@zhenly.cn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XMatrixStudio/Violet.SDK.Nodejs/issues"
+  },
+  "homepage": "https://github.com/XMatrixStudio/Violet.SDK.Nodejs#readme"
+}
