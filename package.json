@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/XMatrixStudio/Violet.SDK.Nodejs/issues"
   },
-  "homepage": "https://github.com/XMatrixStudio/Violet.SDK.Nodejs#readme"
+  "homepage": "https://github.com/XMatrixStudio/Violet.SDK.Nodejs#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
 }
