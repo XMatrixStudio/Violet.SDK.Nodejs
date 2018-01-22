@@ -1,21 +1,22 @@
-# violet-sdk-v1
+# violet-sdk-v2
 The SDK for Violet User System
 
 ## Installation
 Using npm:
 ```
-$ npm i violet-sdk-v1 --save
+$ npm i violet-sdk-v2 --save
 ```
 
 ## demo
 ```js
 // 引入模块
-let Violet = require('violet-sdk-v1')
+let Violet = require('violet-sdk-v2')
 // 创建实例
 let violet = new Violet({
   clientId: 'abcdexxxxxxxxxxxxx', // 客户端ID
   clientKey: 'abcdexxxxxxxxxxxxxxxxxxxxx', // 客户端Key
-  server: 'https://xxxxxxxxxxxxx' // VioletAPI地址
+  server: 'https://xxxxxxxxxxxxx', // VioletAPI地址
+  loginUrl: 'https://xxxxxxxxxxx' // 跳转到登陆的地址
 })
 
 /**
