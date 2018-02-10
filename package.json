@@ -1,6 +1,6 @@
 {
   "name": "violet-sdk-v2",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "A SDK for Violet User System",
   "main": "index.js",
   "scripts": {
